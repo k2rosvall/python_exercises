@@ -247,5 +247,3 @@ print(bts_songs)
 # len
 
 print("The length of the list is " + str(len(bts_songs)))
-
-
