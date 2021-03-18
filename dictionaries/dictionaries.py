@@ -245,4 +245,3 @@ for username, user_info in users.items():
     print("\tFull name: " + full_name.title())
     print("\tLocation: " + location.title())
 
-# 6-7 People
